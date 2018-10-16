@@ -1,0 +1,41 @@
+h1 {
+    font-family: 'Handlee', sans-serif;
+    font-size: 1.4em;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-size: 0.8em;
+    font-family: sans-serif;
+}
+
+table {
+    margin: auto;
+}
+
+td {
+    width: 100px;
+    height: 200px;
+    border: 3px solid white;
+}
+
+#one {
+    background-color: #CBC64F
+}
+
+#two {
+    background-color: #087F89
+}
+
+#three {
+    background-color: #28354F
+}
+
+#four {
+    background-color: #E86C72
+}
+
+#five {
+    background-color: #B41F24
+}
